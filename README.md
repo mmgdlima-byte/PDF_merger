@@ -13,8 +13,7 @@ Biblioteca pypdf (ou PyPDF2)
 
 Clone o repositório ou baixe os arquivos do projeto.
 
-git clone https://github.com/seu-usuario/automacao-pdf.git
-
+git clone (https://github.com/mmgdlima-byte/PDF_merger)
 Entre na pasta do projeto:
 
 cd automacao-pdf
