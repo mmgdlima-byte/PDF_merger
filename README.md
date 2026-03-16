@@ -45,7 +45,7 @@ python projeto1.py
 
 O programa irá:
 
-Ler todos os arquivos PDF dentro da pasta pdfs
+Ler todos os arquivos PDF dentro da pasta arquivos.
 
 Mesclar os documentos
 
@@ -56,14 +56,14 @@ Automacao
 │
 ├── projeto1.py
 ├── README.md
-├── pdfs
+├── arquivos
 │   ├── arquivo1.pdf
 │   ├── arquivo2.pdf
 │   └── arquivo3.pdf
 └── .venv
 💡 Possíveis melhorias
 
-Permitir que o usuário escolha a pasta dos PDFs
+Permitir que o usuário escolha a pasta dos arquivos
 
 Definir automaticamente a ordem dos arquivos
 
